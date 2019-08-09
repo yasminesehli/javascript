@@ -1,0 +1,122 @@
+body{
+    background-image:Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+li a,li{
+    display: inline-block;
+    color: white; 
+    font-size: 30px; 
+    font-family: 'Courier New', Courier, monospace;     text-decoration: none;
+    
+    padding: 30px;
+  
+}
+.test{
+    width: 100%;
+    height: 420%;
+   display: block; 
+}
+.test1{
+    width: 100px;
+    height: 100px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace; 
+    color: black;
+    
+}
+h2{
+    font-family: 'Courier New', Courier, monospace; 
+    color: white;
+}
+
+a:hover{
+    color:red; 
+}
+.bg-img{
+background-image: url("./res/gomycode3.jpeg"); 
+filter: blur(4px);
+width: 1350px;
+height: 400px; 
+}
+.text{
+    font-family: 'Courier New', Courier, monospace; 
+    color: white;
+    font-weight: bold;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+}
+.button{
+    
+    position: absolute;
+    transform: translate(-300%,500%);
+    text-align: center;
+    
+    
+}
+button:hover{
+    
+    background-color: grey; 
+    
+}
+div h1{
+    font-family: 'Courier New', Courier, monospace; 
+    color:white; 
+    font-size: 60px; 
+    text-shadow: 4px 4px black; 
+}
+
+.test3{
+    font-family: 'Courier New', Courier, monospace; 
+    display: block; 
+    color: white; 
+    text-align: center; 
+}
+
+.imageblock 
+{
+    display: inline-block; 
+    width: 25%; 
+    height:5%; 
+    padding: 15px; 
+}
+.imageblock:hover
+{
+   opacity: 0.3; 
+}
+.imageblock1 
+{
+    display: inline-block; 
+    width: 25%; 
+    height:5%; 
+    padding: 15px;
+}
+.imageblock1:hover{
+ opacity: 0.3;
+}
+
+.feed{
+    font-size: 45px; 
+    font-family: 'Courier New', Courier, monospace; 
+}
+h3{
+    font-size: 45px; 
+    font-family: 'Courier New', Courier, monospace; 
+    color: white; 
+}
+a{
+    font-size: 25px;
+    text-decoration: none;
+     
+
+}
